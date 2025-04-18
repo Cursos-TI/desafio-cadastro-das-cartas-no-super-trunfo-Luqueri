@@ -1,5 +1,8 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "files.associations": {
+        "Desafio.Super.Trunfo.Nivel.Aventureira.C": "cpp"
+    }
 }
